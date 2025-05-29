@@ -1,0 +1,9 @@
+Before:
+person: 62.27% (left, 163, top 240, width 99, height 264)
+horse: 31.74% (left 349, top 253, width 156, height 269)
+dog: 39.52% (left 99, top 321, width 76, height 96)
+
+After:
+person: 57.841%  (left_x: 160  top_y: 238  width: 97  height: 249)
+horse: 29.1385%  (left_x: 348  top_y: 249  width: 150  height: 250)
+dog: 38.9258%  (left_x: 98  top_y: 320  width: 70  height: 89)
